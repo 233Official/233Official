@@ -12,4 +12,9 @@
 </a>
 -->
 
+<!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ayusummer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+[![willianrod's wakatime stats](https://github-readme-stats-233officials-projects.vercel.app/api/wakatime?username=@ayusummer&layout=compact)](https://github.com/233Official/github-readme-stats)
+
